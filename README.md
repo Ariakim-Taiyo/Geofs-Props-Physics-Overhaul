@@ -1,2 +1,3 @@
 # Geofs-C172-Physics-Overhaul
-Improves the engine and propwash effects of the C172 in GeofF
+Adds new engine torque simulation to the C172, and improves the propwash effects.
+Stall buffeting is also implemented, with a primitive form of ground effect.
